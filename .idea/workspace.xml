@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ad9d1b1-6a5b-4b8c-8387-68469bc4ac50" name="Default Changelist" comment="" />
+    <list default="true" id="3ad9d1b1-6a5b-4b8c-8387-68469bc4ac50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/004A. Watermelon.py" beforeDir="false" afterPath="$PROJECT_DIR$/004A. Watermelon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/069A. Young Physicist.py" beforeDir="false" afterPath="$PROJECT_DIR$/069A. Young Physicist.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
