@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ad9d1b1-6a5b-4b8c-8387-68469bc4ac50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cut Ribbon.py" beforeDir="false" afterPath="$PROJECT_DIR$/189A. Cut Ribbon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D. Amr and Music.py" beforeDir="false" afterPath="$PROJECT_DIR$/507A. Amr and Music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mahmoud and a Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/766B. Mahmoud and a Triangle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Xf5H24UECTmC7XyVWjWmkWvI6K" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
