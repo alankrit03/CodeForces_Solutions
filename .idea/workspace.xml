@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.467A. George and Accommodation">
+  <component name="RunManager" selected="Python.479A. Expression">
     <configuration name="110A. Nearly Lucky Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="116A. Tram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="271A. Beautiful Year" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/116A. Tram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/271A. Beautiful Year.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="546A. Soldier and Bananas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="479A. Expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/546A. Soldier and Bananas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/479A. Expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="617A. Elephant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="791A. Bear and Big Brother" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/617A. Elephant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/791A. Bear and Big Brother.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.479A. Expression" />
+        <item itemvalue="Python.271A. Beautiful Year" />
+        <item itemvalue="Python.791A. Bear and Big Brother" />
         <item itemvalue="Python.467A. George and Accommodation" />
         <item itemvalue="Python.110A. Nearly Lucky Number" />
-        <item itemvalue="Python.617A. Elephant" />
-        <item itemvalue="Python.546A. Soldier and Bananas" />
-        <item itemvalue="Python.116A. Tram" />
       </list>
     </recent_temporary>
   </component>
