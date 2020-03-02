@@ -15,7 +15,6 @@ y_data = temp[1:]
 for i in range(y):
     y_data[i] = int(y_data[i])
 
-# for i in range(1,n+1):
 
 new_ = x_data + y_data
 if len(set(new_)) == n:

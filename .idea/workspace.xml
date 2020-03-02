@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ad9d1b1-6a5b-4b8c-8387-68469bc4ac50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/469A. I wanna be the Guy.py" beforeDir="false" afterPath="$PROJECT_DIR$/469A. I wanna be the Guy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.479A. Expression">
-    <configuration name="110A. Nearly Lucky Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.200B. Drinks">
+    <configuration name="1030A. In Search of an Easy Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/110A. Nearly Lucky Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030A. In Search of an Easy Problem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="271A. Beautiful Year" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="200B. Drinks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/271A. Beautiful Year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200B. Drinks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="467A. George and Accommodation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="318A. Even Odds" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/467A. George and Accommodation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/318A. Even Odds.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="479A. Expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="486A. Calculating Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/479A. Expression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/486A. Calculating Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="791A. Bear and Big Brother" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="496A. Minimum Difficulty" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/791A. Bear and Big Brother.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/496A. Minimum Difficulty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.479A. Expression" />
-        <item itemvalue="Python.271A. Beautiful Year" />
-        <item itemvalue="Python.791A. Bear and Big Brother" />
-        <item itemvalue="Python.467A. George and Accommodation" />
-        <item itemvalue="Python.110A. Nearly Lucky Number" />
+        <item itemvalue="Python.200B. Drinks" />
+        <item itemvalue="Python.1030A. In Search of an Easy Problem" />
+        <item itemvalue="Python.496A. Minimum Difficulty" />
+        <item itemvalue="Python.486A. Calculating Function" />
+        <item itemvalue="Python.318A. Even Odds" />
       </list>
     </recent_temporary>
   </component>
