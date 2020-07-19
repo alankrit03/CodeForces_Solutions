@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ad9d1b1-6a5b-4b8c-8387-68469bc4ac50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CodeForces_Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeForces_Solutions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/469A. I wanna be the Guy.py" beforeDir="false" afterPath="$PROJECT_DIR$/469A. I wanna be the Guy.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,23 +25,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_DataStructures" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.200B. Drinks">
-    <configuration name="1030A. In Search of an Easy Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.344A. Magnets">
+    <configuration name="112A. Petya and Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030A. In Search of an Easy Problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/112A. Petya and Strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="200B. Drinks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="236A. Boy or Girl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200B. Drinks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/236A. Boy or Girl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="318A. Even Odds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="344A. Magnets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/318A. Even Odds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/344A. Magnets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="486A. Calculating Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="405A. Gravity Flip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/486A. Calculating Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/405A. Gravity Flip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="496A. Minimum Difficulty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="59A. Word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForces_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/496A. Minimum Difficulty.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/59A. Word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.200B. Drinks" />
-        <item itemvalue="Python.1030A. In Search of an Easy Problem" />
-        <item itemvalue="Python.496A. Minimum Difficulty" />
-        <item itemvalue="Python.486A. Calculating Function" />
-        <item itemvalue="Python.318A. Even Odds" />
+        <item itemvalue="Python.344A. Magnets" />
+        <item itemvalue="Python.59A. Word" />
+        <item itemvalue="Python.236A. Boy or Girl" />
+        <item itemvalue="Python.112A. Petya and Strings" />
+        <item itemvalue="Python.405A. Gravity Flip" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +178,48 @@
       </map>
     </option>
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1514" height="221" key="GridCell.Tab.0.bottom" timestamp="1594550985722">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594550985722" />
+    <state width="1514" height="221" key="GridCell.Tab.0.center" timestamp="1594550985722">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1594550985722" />
+    <state width="1514" height="221" key="GridCell.Tab.0.left" timestamp="1594550985722">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1594550985722" />
+    <state width="1514" height="221" key="GridCell.Tab.0.right" timestamp="1594550985722">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1594550985722" />
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1594442726992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594442726992" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1594442726991">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1594442726991" />
+    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1594442726991">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1594442726991" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1594442726992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1594442726992" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1594814456495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1594814456495" />
+    <state x="423" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1594698932415">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="423" y="314" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1594698932415" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -192,5 +230,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="arr[j+1]" language="Python" />
+        <watch expression="arr[i]" language="Python" />
+        <watch expression="arr[j]" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
